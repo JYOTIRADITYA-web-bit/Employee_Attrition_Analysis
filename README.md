@@ -90,9 +90,9 @@ This project includes a \*\*comprehensive analysis of employee attrition\*\* usi
 
 ```bash
 
-git clone https://github.com/JYOTIRADITYA-web-bit/Employee\_Attrition\_Analysis
+git clone https://github.com/JYOTIRADITYA-web-bit/Employee\_Attrition\_Analysis.git
 
-cd employee-attrition-dashboard
+cd Employee\_Attrition\_Analysis
 
 
 
@@ -105,4 +105,6 @@ Interact with the Employee Attrition Dashboard online:
 
 
 👉 Open Dashboard: https://employeeattritionanalysis-bjfnuksb6ybybnudw4b4z5.streamlit.app/
+
+
 
