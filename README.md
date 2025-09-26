@@ -12,8 +12,6 @@ This project includes a \*\*comprehensive analysis of employee attrition\*\* usi
 
 
 
-
-
 ---
 
 
@@ -76,7 +74,7 @@ This project includes a \*\*comprehensive analysis of employee attrition\*\* usi
 
 
 
-
+---
 
 
 
@@ -96,15 +94,17 @@ cd Employee\_Attrition\_Analysis
 
 
 
-\## Live Dashboard
+
+
+\## 🚀 Live Dashboard
 
 
 
-Interact with the Employee Attrition Dashboard online:
+Interact with the \*\*Employee Attrition Dashboard\*\* online:
 
 
 
-👉 Open Dashboard: https://employeeattritionanalysis-bjfnuksb6ybybnudw4b4z5.streamlit.app/
+\[Open Dashboard](https://employeeattritionanalysis-bjfnuksb6ybybnudw4b4z5.streamlit.app/)
 
 
 
