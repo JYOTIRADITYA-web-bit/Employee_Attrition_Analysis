@@ -94,3 +94,15 @@ git clone https://github.com/JYOTIRADITYA-web-bit/Employee\_Attrition\_Analysis
 
 cd employee-attrition-dashboard
 
+
+
+\## Live Dashboard
+
+
+
+Interact with the Employee Attrition Dashboard online:
+
+
+
+👉 Open Dashboard: https://employeeattritionanalysis-bjfnuksb6ybybnudw4b4z5.streamlit.app/
+
