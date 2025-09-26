@@ -2,7 +2,7 @@
 
 
 
-This project includes a \*\*comprehensive analysis of employee attrition\*\* using Python, LightGBM, and Streamlit. It contains:
+This project provides a \*\*comprehensive analysis of employee attrition\*\* using Python, LightGBM, and Streamlit. It contains:
 
 
 
@@ -105,6 +105,4 @@ Interact with the \*\*Employee Attrition Dashboard\*\* online:
 
 
 \[Open Dashboard](https://employeeattritionanalysis-bjfnuksb6ybybnudw4b4z5.streamlit.app/)
-
-
 
