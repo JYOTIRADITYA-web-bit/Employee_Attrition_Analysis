@@ -51,4 +51,4 @@ cd Employee_Attrition_Analysis
 
 ## Interact with the Employee Attrition Dashboard online
 
-[Click here to open the Dashboard](https://employeeattritionanalysis-bjfnuksb6ybybnudw4b4z5.streamlit.app/)
+[Open the Dashboard](https://employeeattritionanalysis-bjfnuksb6ybybnudw4b4z5.streamlit.app/)
