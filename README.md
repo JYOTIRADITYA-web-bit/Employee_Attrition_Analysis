@@ -38,15 +38,6 @@ This project includes a **comprehensive analysis of employee attrition** using P
 
 ---
 
-## Setup Instructions
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/JYOTIRADITYA-web-bit/Employee_Attrition_Analysis.git
-cd Employee_Attrition_Analysis
-
-
 ## 🚀 Live Dashboard
 
 ## Interact with the Employee Attrition Dashboard online
